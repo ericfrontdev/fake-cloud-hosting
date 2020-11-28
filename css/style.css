@@ -391,6 +391,12 @@ img {
    }
  }
 
+ @media (max-width: 400px) {
+    .showcase-form {
+        width: 360px
+    } 
+ }
+
  
 
  
